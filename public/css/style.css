@@ -1,0 +1,14 @@
+/*Additional CSS requirements*/
+
+#text-sample{
+	text-align: center;
+	position: relative;
+	top: 240px;
+}
+
+#cprgth{
+	position: absolute;
+	bottom: 0;
+	rigth: 0;
+	font-weigth: 400;
+}

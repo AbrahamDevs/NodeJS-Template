@@ -1,0 +1,25 @@
+{
+  "name": "NodeJS-Template",
+  "version": "1.0.0",
+  "description": "![NodeJS-ExpressJS](https://i.ibb.co/PQ4FM1s/expressjs.png \"NodeJS-ExpressJS\")",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbrahamDevs/NodeJS-Template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbrahamDevs/NodeJS-Template/issues"
+  },
+  "homepage": "https://github.com/AbrahamDevs/NodeJS-Template#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
