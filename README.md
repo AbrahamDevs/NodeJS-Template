@@ -15,6 +15,6 @@
 
 #### Commands
 
-> **npm i**.
+> **npm install** to install the required modules.
 
 >  **node server.js** to start the server.
